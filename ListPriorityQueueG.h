@@ -1,5 +1,5 @@
 //ListPriorityQueueG class header file
-//Programmed by Maria Psomas
+//Programmed by Badtothebunny
 
 #ifndef LISTPRIORITYQUEUEG_H_
 #define LISTPRIORITYQUEUEG_H_
@@ -30,3 +30,4 @@ class ListPriorityQueueG: public PriorityQueueG<E, C, R>
 
 
 #endif /* LISTPRIORITYQUEUESTL_H_ */
+
