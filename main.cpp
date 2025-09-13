@@ -1,5 +1,5 @@
 //This program tests the utility of a ListPriorityQueueG class
-//Programmed by Maria Psomas :)
+//Programmed by Badtothebunny
 
 #include "ListPriorityQueueG.h"
 
@@ -32,3 +32,4 @@ int main()
 	}
 	return 0;
 }
+
